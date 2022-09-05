@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 1300,
+      "id": 1,
+      "title": "Mandala rústica",
+      "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5ri_NCUdKR9DjF6CQoWmGRegqcdQS3NuvA&usqp=CAU"
+    },
+    {
+      "precio": 2100,
+      "id": 2,
+      "title": "Mandala hindú",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_644297-MLA46157131184_052021-O.webp"
+    },
+    {
+      "precio": 1900,
+      "id": 3,
+      "title": "Mandala flor",
+      "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/439/125/products/img_16081-fe93f55356e51d93b216004508609710-640-0.jpg"
+    },
+    {
+      "precio": 1200,
+      "id": 4,
+      "title": "Mandala equilibrio",
+      "thumbnailUrl": "https://d22fxaf9t8d39k.cloudfront.net/69695dfbe1a74fe12523814fe54e95c57b1a8d44486f521809a4966bf8f37c9b32431.jpeg"
+    },
+    {
+      "precio": 2200,
+      "id": 5,
+      "title": "Mandala celta",
+      "thumbnailUrl": "https://d22fxaf9t8d39k.cloudfront.net/668bc6f95c367e51193f287d33d2979aa11101675fd8ad82374fb829cf3ca5b039173.jpeg"
+    },
+    {
+      "precio": 900,
+      "id": 6,
+      "title": "Espejo hogar",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_699984-MLA45811125191_052021-W.jpg"
+    }
+  ]
